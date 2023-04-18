@@ -51,7 +51,7 @@ main section.video-telephone video
     
 }
 
-main section.voyage 
+main section.voyage-apli 
 {
     display: flex;
     flex-direction: column;
@@ -59,7 +59,7 @@ main section.voyage
     justify-content: center;
 }
 
-main section.voyage h1
+main section.voyage-apli h1
 {
     font-family: Verdana;
     font-weight: 300;
@@ -67,7 +67,7 @@ main section.voyage h1
     margin-bottom: 2%;
 }
 
-main section.voyage h2
+main section.voyage-apli h2
 {
     font-family: Verdana;
     color: grey;
@@ -75,7 +75,7 @@ main section.voyage h2
     margin-bottom: 1%;
 }
 
-main section.voyage img
+main section.voyage-apli img
 {
     border-radius: 20px;
 }
